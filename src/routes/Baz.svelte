@@ -10,3 +10,5 @@ let {
 } = $props();
 </script>
 
+{position.x}
+{position.y}
